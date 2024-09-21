@@ -1,0 +1,11 @@
+.box{
+    border:1px solid rgb(177, 175, 175);
+    width:200px;
+    padding:0.5rem 1rem 0.5rem 0.5rem;
+    line-height: 1.5rem;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
